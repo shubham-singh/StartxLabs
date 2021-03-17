@@ -1,5 +1,4 @@
-**Run at:** https://repl.it/@iShubhamSingh/StartxLabs?embed=1&output1
-(Click on run after opening the link)
+**Run at:** https://repl.it/@iShubhamSingh/StartxLabs?embed=1&output1  (Don't forget to click on run)
 
 
 **Source:** https://github.com/shubham-singh/StartxLabs
